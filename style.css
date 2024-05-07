@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
-    --cor-de-fundo: #1E1E1E;
+    --cor-de-fundo: #183279;
     --azul: #6b91f8;
     --branco: #FFFFFF;
     --botao-ativo: #50c5e9b0;
@@ -33,7 +33,7 @@ body {
 }
 
 .titulo-principal span {
-    color: var(--azul);
+    color: var(--cor-de-fundo);
 }
 
 
